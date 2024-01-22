@@ -12,14 +12,14 @@ Config.restTime = 5 -- time between cyles
 
 Config.nameEnabled = true
 
-Config.name = "Mehdi MMO"
-Config.nameColor = "#00ff66"
+Config.name = "ZanexLife"
+Config.nameColor = "#42ef14"
 
 Config.linkEnabled = true
 
-Config.link = 'discord.gg/FqQFzndxZ4'
-Config.linkColor = "#00ff66"
+Config.link = 'DESCONOCIDO'
+Config.linkColor = "#ffffff"
 
 Config.logoEnabled = true
 
-Config.logoLink = "https://cdn.discordapp.com/attachments/1088122552330764298/1089200905351614504/1.png"
+Config.logoLink = "https://cdn.discordapp.com/attachments/1088271262859657247/1194687134548906061/ZanexLifeSin_Fondo.png?ex=65ba7c99&is=65a80799&hm=5d1a9a4af695ecdabdebe4eca598963f532a319fdaeac2db9169fd54132c3849&"
